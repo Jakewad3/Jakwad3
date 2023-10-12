@@ -1,5 +1,3 @@
 # Jakwad3
 
-I have been read
-
-I went to school
+Jake Wade, Computer Science and Game Development, 2027.
